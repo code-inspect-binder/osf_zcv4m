@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/zcv4m_src/Materials")' >> /home/jovyan/.Rprofile
